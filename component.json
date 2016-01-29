@@ -1,0 +1,10 @@
+{
+    "name": "mdurl",
+    "description": "URL utilities for markdown-it",
+    "repos": "https://github.com/markdown-it/mdurl",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "main": "index.js",
+    "version": "1.0.0"
+}
